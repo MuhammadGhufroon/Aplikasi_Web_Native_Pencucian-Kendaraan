@@ -7,4 +7,4 @@ Fitur:
 - Laporan
 
 Note: 
-Ubah Username, host, password dan nama database sesuai yang ada di akun phpMyAdmin masing masing
+Ubah Username, host, password dan nama database sesuai yang ada di akun phpMyAdmin masing masing di file koneksi.php
