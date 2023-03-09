@@ -6,3 +6,5 @@ Fitur:
 - Cetak Nota
 - Laporan
 
+Note: 
+Ubah Username, host, password dan nama database sesuai yang ada di akun phpMyAdmin masing masing
